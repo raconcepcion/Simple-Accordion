@@ -1,0 +1,23 @@
+dl {
+	padding-top:50px;
+	width:50%;
+	margin:auto;
+	font-family:'Open Sans', sans-serif;
+}
+
+dt {
+	color:white;
+	background-color:gray;
+	font-weight:700;
+	font-size:1.5em;
+	padding:5px 15px;
+	cursor:pointer;
+}
+
+dd {
+	text-align:center;
+	font-size:.8em;
+	margin-left:0;
+	padding:12px;
+	border:1px solid gray;
+}
